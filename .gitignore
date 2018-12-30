@@ -213,4 +213,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
+# Others
+users.json
